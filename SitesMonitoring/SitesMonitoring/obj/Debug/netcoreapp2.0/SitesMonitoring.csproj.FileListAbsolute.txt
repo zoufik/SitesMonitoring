@@ -1,0 +1,12 @@
+c:\users\andreevskaya\source\repos\SitesMonitoring\SitesMonitoring\obj\Debug\netcoreapp2.0\SitesMonitoring.csprojResolveAssemblyReference.cache
+c:\users\andreevskaya\source\repos\SitesMonitoring\SitesMonitoring\obj\Debug\netcoreapp2.0\SitesMonitoring.csproj.CoreCompileInputs.cache
+c:\users\andreevskaya\source\repos\SitesMonitoring\SitesMonitoring\obj\Debug\netcoreapp2.0\SitesMonitoring.AssemblyInfoInputs.cache
+c:\users\andreevskaya\source\repos\SitesMonitoring\SitesMonitoring\obj\Debug\netcoreapp2.0\SitesMonitoring.AssemblyInfo.cs
+c:\users\andreevskaya\source\repos\SitesMonitoring\SitesMonitoring\bin\Debug\netcoreapp2.0\SitesMonitoring.deps.json
+c:\users\andreevskaya\source\repos\SitesMonitoring\SitesMonitoring\bin\Debug\netcoreapp2.0\SitesMonitoring.runtimeconfig.json
+c:\users\andreevskaya\source\repos\SitesMonitoring\SitesMonitoring\bin\Debug\netcoreapp2.0\SitesMonitoring.runtimeconfig.dev.json
+c:\users\andreevskaya\source\repos\SitesMonitoring\SitesMonitoring\bin\Debug\netcoreapp2.0\SitesMonitoring.dll
+c:\users\andreevskaya\source\repos\SitesMonitoring\SitesMonitoring\bin\Debug\netcoreapp2.0\SitesMonitoring.pdb
+c:\users\andreevskaya\source\repos\SitesMonitoring\SitesMonitoring\obj\Debug\netcoreapp2.0\SitesMonitoring.dll
+c:\users\andreevskaya\source\repos\SitesMonitoring\SitesMonitoring\obj\Debug\netcoreapp2.0\SitesMonitoring.pdb
+C:\Users\andreevskaya\source\repos\SitesMonitoring\SitesMonitoring\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
